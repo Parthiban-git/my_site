@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+.parent{
+    position: relative;
+    padding-top: 20px;
+    background-color: #E4F9F4;
+    text-align: center;
+}
+#firstcloud{
+    position: absolute;
+    right: 200px;
+    top: 10px;
+}
+ #secondcloud{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+.middle-container{
+    background-color: #E4F9F4;
+    height: 1000px;
+}
+.profile{
+    position: absolute;
+    left: 430px;
+    padding-top: 20px;
+}
+.skills{
+    position: absolute;
+    left: 410px;
+    top: 750px;
+}
+.contact-me{
+    position: absolute;
+    left: 20px;
+    top: 1100px;
+}
+.bottom-container{
+    position: absolute;
+    top: 1200px;
+    left: 20px;
+}
+
